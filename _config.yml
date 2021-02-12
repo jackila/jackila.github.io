@@ -34,7 +34,7 @@ timezone: Asia/Shanghai # see https://en.wikipedia.org/wiki/List_of_tz_database_
 ## => Author and Social
 ##############################
 author:
-  type      : # "person" (default), "organization"
+  type      : person # "person" (default), "organization"
   name      : jackila
   url       :
   avatar    : # path or url of avatar image (square)
@@ -55,7 +55,7 @@ author:
 
 ## => GitHub Repository (if the site is hosted by GitHub)
 ##############################
-repository: user_name/repo_name
+repository: jackila/jackila.github.io
 repository_tree: master
 
 
