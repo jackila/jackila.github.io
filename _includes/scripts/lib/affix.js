@@ -20,8 +20,15 @@
       function preCalc() {
         top();
         rootHeight = $root.outerHeight();
-        rootTop = $root.offset().top + (isOverallScroller ? 0 :  $scrollTarget.scrollTop());
-        rootLeft = $root.offset().left;
+        var offset = $root.offset();
+        var ttop = 0;
+        var tleft = 0;
+        if(offset){
+          ttop = $root.offset().top;
+          tleft = $root.offset().left;
+        }
+        rootTop = ttop + (isOverallScroller ? 0 :  $scrollTarget.scrollTop());
+        rootLeft = tleft;
       }
       function calc(needPreCalc) {
         needPreCalc && preCalc();
