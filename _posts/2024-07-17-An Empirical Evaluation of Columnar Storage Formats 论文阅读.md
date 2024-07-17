@@ -1,4 +1,4 @@
-## [An Empirical Evaluation of Columnar Storage Formats](https://15721.courses.cs.cmu.edu/spring2024/papers/02-data1/p148-zeng.pdf) 论文阅读
+> [An Empirical Evaluation of Columnar Storage Formats](https://15721.courses.cs.cmu.edu/spring2024/papers/02-data1/p148-zeng.pdf) 论文阅读
 
 ### 0. 概述
 
@@ -40,11 +40,11 @@ Parquet & ORC解决的问题
 
 ### 2. 背景
 
-![image-20240716231946452](../image/image-20240716231946452.png)
+![image-20240716231946452](/assets/images/image-20240716231946452.png)
 
 ### 3. 特征分类
 
-![image-20240716232121625](../image/image-20240716232121625.png)
+![image-20240716232121625](/assets/images/image-20240716232121625.png)
 
 #### 格式布局
 
@@ -58,9 +58,9 @@ Parquet & ORC解决的问题
 | 压缩比   | 尽可能高的压缩能力   | 支持配置化 |
 |          |                      |            |
 
-![img](../image/2024_07_15_94ad8f505ff391a297d0g-04.jpg)
+![img](/assets/images/2024_07_15_94ad8f505ff391a297d0g-04.jpg)
 
-![img](../image/2024_07_15_94ad8f505ff391a297d0g-04-20240717070236585.jpg)
+![img](/assets/images/2024_07_15_94ad8f505ff391a297d0g-04-20240717070236585.jpg)
 
 #### 编码
 
@@ -106,7 +106,7 @@ According to our survey, Arrow and DuckDB only adopt zone maps at the row group 
 
 ####  Nested Data Model
 
-![image-20240717073212114](../image/image-20240717073212114.png)
+![image-20240717073212114](/assets/images/image-20240717073212114.png)
 
 ### 4. 列存储基准
 
@@ -124,11 +124,11 @@ According to our survey, Arrow and DuckDB only adopt zone maps at the row group 
 
 #### 实际数据参数分布
 
-![image-20240717073823960](../image/image-20240717073823960.png)
+![image-20240717073823960](/assets/images/image-20240717073823960.png)
 
 #### 预定义工作负载
 
-![image-20240717073914148](../image/image-20240717073914148.png)
+![image-20240717073914148](/assets/images/image-20240717073914148.png)
 
 ### 5.实验评估
 
