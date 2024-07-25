@@ -47,7 +47,7 @@
 
 ## 3.TPC-H Q1的微基准测试
 
-![image-20240725212130377](/asserts/images/image-20240725212130377.png)
+![image-20240725212130377](/assets/images/image-20240725212130377.png)
 
 上图显示：hand-code > X100 > MIL > Mysql > DBMS X
 
@@ -131,7 +131,7 @@
 * 不止支持Projection而且支持其他算子(aggregation)
 * X100支持针对整个表达式子树的向量化原语，而不是单个函数
 
-![image-20240725224552052](/asserts/images/image-20240725224552052.png)
+![image-20240725224552052](/assets/images/image-20240725224552052.png)
 
 ### 4.1 Query Language 
 
@@ -166,7 +166,7 @@
 
 #### 5.1 Query 1 performance
 
-![image-20240725234415255](/asserts/images/image-20240725234415255.png)
+![image-20240725234415255](/assets/images/image-20240725234415255.png)
 
 * 非常低的CPU周期，执行所有基元，包括复杂的基元
 
@@ -181,7 +181,7 @@
 
 #### 5.1.1 Vector Size Impact
 
-![image-20240725234928443](/asserts/images/image-20240725234928443.png)
+![image-20240725234928443](/assets/images/image-20240725234928443.png)
 
 * 太小，无法利用cpu的并行
 * 太大，中间结果不适合缓存，超过L1和L2缓存
