@@ -1,3 +1,6 @@
+---
+tags: 论文
+---
 **[Froid: Optimization of Imperative Programs in a Relational Database](https://15721.courses.cs.cmu.edu/spring2024/papers/11-udfs/p432-ramachandra.pdf)**
 
 ## ABSTRACT

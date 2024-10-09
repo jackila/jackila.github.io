@@ -1,3 +1,6 @@
+---
+tags: 论文
+---
 > [An Empirical Evaluation of Columnar Storage Formats](https://15721.courses.cs.cmu.edu/spring2024/papers/02-data1/p148-zeng.pdf) 论文阅读
 
 ### 0. 概述

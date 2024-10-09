@@ -1,3 +1,6 @@
+---
+tags: 论文
+---
 >  [**Adopting Worst-Case Optimal Joins in Relational Database Systems**](https://15721.courses.cs.cmu.edu/spring2024/papers/10-multiwayjoins/p1891-freitag.pdf)
 
 ## ABSTRACT

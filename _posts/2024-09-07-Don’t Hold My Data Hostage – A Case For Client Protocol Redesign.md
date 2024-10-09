@@ -1,3 +1,6 @@
+---
+tags: 论文
+---
 [**Don’t Hold My Data Hostage – A Case For Client Protocol Redesign**](https://15721.courses.cs.cmu.edu/spring2024/papers/12-networking/p1022-muehleisen.pdf)
 
 ## ABSTRACT

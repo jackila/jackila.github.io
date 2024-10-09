@@ -1,3 +1,6 @@
+---
+tags: 论文
+---
 > [Morsel-Driven Parallelism: A NUMA-Aware Query Evaluation Framework for the Many-Core Age](https://15721.courses.cs.cmu.edu/spring2024/papers/08-scheduling/p743-leis.pdf)
 
 ## 0. 概述

@@ -1,3 +1,6 @@
+---
+tags: 论文
+---
 > [MonetDB/X100: Hyper-Pipelining Query Execution](MonetDB/X100: Hyper-Pipelining Query Execution) 论文阅读
 
 ## 0. 概述

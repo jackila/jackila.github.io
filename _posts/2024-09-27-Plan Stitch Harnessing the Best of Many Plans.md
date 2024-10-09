@@ -1,3 +1,6 @@
+---
+tags: 论文
+---
 > [Plan Stitch: Harnessing the Best of Many Plans](https://15721.courses.cs.cmu.edu/spring2024/papers/15-optimizer3/p1123-ding.pdf)
 
 ## ABSTRACT

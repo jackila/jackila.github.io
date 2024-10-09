@@ -1,3 +1,6 @@
+---
+tags: 论文
+---
 >  [Make the most out of your SIMD investments: counter control flow divergence in compiled query pipelines](https://15721.courses.cs.cmu.edu/spring2024/papers/06-vectorization/lang-vldbj2020.pdf)
 
 ## 0.摘要

@@ -1,3 +1,6 @@
+---
+tags: 论文
+---
 >  [Efficiently Compiling Efficient Query Plans for Modern Hardware](https://15721.courses.cs.cmu.edu/spring2024/papers/07-compilation/p539-neumann.pdf) 论文阅读
 
 ## 概述

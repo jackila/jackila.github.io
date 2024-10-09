@@ -1,3 +1,6 @@
+---
+tags: 论文
+---
 [**An Experimental Comparison of Thirteen Relational Equi-Joins in Main Memory**](https://15721.courses.cs.cmu.edu/spring2024/papers/09-hashjoins/schuh-sigmod2016.pdf)
 
 # ABSTRACT

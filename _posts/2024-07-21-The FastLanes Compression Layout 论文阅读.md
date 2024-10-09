@@ -1,3 +1,6 @@
+---
+tags: 论文
+---
 > [The FastLanes Compression Layout: Decoding >100 Billion Integers per Second with Scalar Code](https://15721.courses.cs.cmu.edu/spring2024/papers/03-data2/p2132-afroozeh.pdf) 论文阅读
 
 ### 概述

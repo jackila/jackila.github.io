@@ -1,3 +1,6 @@
+---
+tags: 论文
+---
 [An Overview of Query Optimization in Relational Systems](https://15721.courses.cs.cmu.edu/spring2024/papers/13-optimizer1/chaudhuri-pods1998.pdf)
 
 ## OBJECTIVE
